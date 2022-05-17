@@ -1,0 +1,16 @@
+.homepage-wrapper {
+    display: grid;
+    grid-template-columns: 1fr;
+  
+    .filter-links {
+      display: flex;
+      justify-content: space-around;
+  
+      .btn {
+        width: 100%;
+        background-color: #D59FFF;
+        // border-style: dotted;
+        // border-color: black;
+      }
+    }
+}

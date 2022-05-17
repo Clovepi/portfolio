@@ -1,3 +1,18 @@
 body {
     margin: 0px;
+    font-family: 'Handlee', cursive;
+    background-image: url("../../static/assets/images/auth/flowers.jpg");
+    background-size: 300px;
+    // background-size: 385px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.nav-bar-links {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
