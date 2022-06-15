@@ -94,7 +94,7 @@ export default class App extends Component {
       <div className="container">
         <Router>
           <div>
-            <h1>Hi, I'm Cassandra, a Junior Web Developer</h1>
+            <h1>Hi, I'm Cassandra, a Junior Software Engineer</h1>
             <div className="time">{moment().format("MMMM Do YYYY, h:mm:ss a")}</div>
 
             <NavigationContainer 

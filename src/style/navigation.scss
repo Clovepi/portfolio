@@ -52,18 +52,28 @@
 
 .app-wrapper {
     .container h1 {
-        margin-left: 30px;
+        // margin-left: 30px;
         background-color: white;
-        border-radius: 10px;
-        border-style: dotted;
-        margin-right: 675px;
+        // border-radius: 10px;
+        // border-style: dotted;
+        text-align: center;
+        border-radius: 5px;
+        border-style: double;
+        margin-left: 320px;
+        margin-right: 320px;
+        // margin-right: 675px;
     }
 
     .time {
-        margin-left: 30px;
+        // margin-left: 30px;
         background-color: white;
-        border-radius: 10px;
-        border-style: dotted;
-        margin-right: 1040px;
+        text-align: center;
+        border-radius: 5px;
+        border-style: double;
+        margin-right: 530px;
+        margin-left: 530px;
+        // border-radius: 10px;
+        // border-style: dotted;
+        // margin-right: 1040px;
     }
 }
